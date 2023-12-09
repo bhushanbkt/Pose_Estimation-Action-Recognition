@@ -5,8 +5,7 @@ Colabe Notebook https://colab.research.google.com/drive/1J1iaj4OiQHP0j6zbr3zhM2K
 
 
 
-
-![Top Five Prediction]
+[Top Five Prediction]
 
 ![Screenshot (227)](https://github.com/bhushanbkt/Pose_Estimation-Action-Recognition/assets/91175596/e70cffd8-dae5-4a60-8428-26c47edcd784)
 
